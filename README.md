@@ -14,5 +14,4 @@ Using this dashboard, bank can manage their funds like distributed loan amount a
 
 ![Home Loan Report_page-0004](https://github.com/pushpakrk/Bank-Loan-Insights/assets/93335175/f6726ea0-eec3-4aac-b921-dc90292092d8)
 
-![Home Loan Report_page-0005](https://github.com/pushpakrk/Bank-Loan-Insights/assets/93335175/94102a5b-e5b2-4645-8f57-ef02ae7d811f)
 
